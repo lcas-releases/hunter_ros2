@@ -1,0 +1,33 @@
+ros-humble-hunter-base (0.0.2-1jammy) jammy; urgency=high
+
+  * Merge pull request #2 <https://github.com/LCAS/hunter_ros2/issues/2> from LCAS/lcas_additions
+    Lcas additions
+  * added missing dependency
+  * Merge pull request #15 <https://github.com/LCAS/hunter_ros2/issues/15> from lagrangeluo/master
+    odom:inner_angle to central
+  * odom:inner_angle to central
+  * Merge pull request #14 <https://github.com/LCAS/hunter_ros2/issues/14> from lagrangeluo/master
+    steercmd to angular
+  * steercmd to angular
+  * Update CMakeLists.txt
+  * Merge pull request #13 <https://github.com/LCAS/hunter_ros2/issues/13> from agilexrobotics/humble
+    Humble
+  * Update hunter_messenger.hpp
+  * fix steering_angle
+  * Merge pull request #7 <https://github.com/LCAS/hunter_ros2/issues/7> from lagrangeluo/patch-3
+    fix the steering_angle info callback
+  * fix the steering_angle info callback
+  * Merge pull request #5 <https://github.com/LCAS/hunter_ros2/issues/5> from lagrangeluo/patch-1
+    fix detector
+  * fix detector
+  * Merge pull request #4 <https://github.com/LCAS/hunter_ros2/issues/4> from lagrangeluo/humble
+    update hunter_base for compatibility in humble
+  * update hunter_base for compatibility in humble
+  * Merge pull request #1 <https://github.com/LCAS/hunter_ros2/issues/1> from 885288421/master
+    first commit
+  * first commit
+  * Contributors: 885288421, Marc Hanheide, agilexrobotics, lagrangeluo
+
+ -- TODO <contact@westonrobot.com>  Wed, 03 Apr 2024 00:00:00 -0000
+
+
