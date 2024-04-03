@@ -1,0 +1,10 @@
+ros-humble-hunter-msgs (0.0.2-1jammy) jammy; urgency=high
+
+  * Merge pull request #1 <https://github.com/LCAS/hunter_ros2/issues/1> from 885288421/master
+    first commit
+  * first commit
+  * Contributors: 885288421, agilexrobotics
+
+ -- TODO <contact@westonrobot.com>  Wed, 03 Apr 2024 00:00:00 -0000
+
+
